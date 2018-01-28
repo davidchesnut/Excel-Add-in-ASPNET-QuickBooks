@@ -16,5 +16,4 @@ sample:
   extensions:
     products:
     - Excel
-    scenarios:
-    - ''
+    scenarios: []
